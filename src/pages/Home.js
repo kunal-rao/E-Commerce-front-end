@@ -11,6 +11,7 @@ const Home = ()=>{
     </Navbar>
     <ProductList></ProductList>
     </>
+    
     )
 };
 export default Home;
